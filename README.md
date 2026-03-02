@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Sunday, March 1, 2026 at 04:51 AM EST**
+**Monday, March 2, 2026 at 05:10 AM EST**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **49** positions available
+> 💼 **71** positions available
 
 <table width="100%">
 <thead>
@@ -111,345 +111,499 @@ color : white;
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
 <td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
-<td>📍 Chicago, IL</td>
+<td>📍 Atlanta, GA</td>
 <td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-atlanta-ga-at-agoda-4299779182/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
+<td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
+<td>📍 Philadelphia, PA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-philadelphia-pa-at-agoda-4299772364/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
+<td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
+<td>📍 Philadelphia, PA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-philadelphia-pa-at-agoda-4299772364/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
+<td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
+<td>📍 Detroit, MI</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-detroit-mi-at-agoda-4299766660/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
+<td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
+<td>📍 Philadelphia, PA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-philadelphia-pa-at-agoda-4299772364/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
+<td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
+<td>📍 Detroit, MI</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-detroit-mi-at-agoda-4299766660/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
+<td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
+<td>📍 Atlanta, GA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-atlanta-ga-at-agoda-4299779182/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
+<td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
+<td>📍 Atlanta, GA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-atlanta-ga-at-agoda-4299779182/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
+<td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
+<td>📍 Detroit, MI</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-detroit-mi-at-agoda-4299766660/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stlukeshealthsystem">St. Luke's Health System</a></td>
+<td>New Grad RN Fall 2026 - STAR Residency - Treasure Valley   -   151689</td>
+<td>📍 Boise, ID</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-fall-2026-star-residency-treasure-valley-151689-in-boise-id-at-st-lukes-health-system-4379599886/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stlukeshealthsystem">St. Luke's Health System</a></td>
+<td>New Grad RN Fall 2026 - STAR Residency - Treasure Valley   -   151689</td>
+<td>📍 Boise, ID</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-fall-2026-star-residency-treasure-valley-151689-in-boise-id-at-st-lukes-health-system-4379599886/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/rutland-regional-medical-center">Rutland Regional Medical Center</a></td>
+<td>RN New Graduate Internship Program - Surgical Care Unit</td>
+<td>📍 Rutland, VT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-new-graduate-internship-program-surgical-care-unit-in-rutland-vt-at-rutland-regional-medical-center-4379703493/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/hartford-healthcare">Hartford HealthCare</a></td>
+<td>Registered Nurse (GN, RN) - New Grads Welcome</td>
+<td>📍 Meriden, CT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-gn-rn-new-grads-welcome-in-meriden-ct-at-hartford-healthcare-4379705350/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/hartford-healthcare">Hartford HealthCare</a></td>
+<td>Registered Nurse (GN, RN) - New Grads Welcome</td>
+<td>📍 New Britain, CT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-gn-rn-new-grads-welcome-in-new-britain-ct-at-hartford-healthcare-4379588834/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/rutland-regional-medical-center">Rutland Regional Medical Center</a></td>
+<td>RN New Graduate Internship Program - Surgical Care Unit</td>
+<td>📍 Rutland, VT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-new-graduate-internship-program-surgical-care-unit-in-rutland-vt-at-rutland-regional-medical-center-4379703493/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/signifyhealth">Signify Health</a></td>
+<td>Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Preferred)</td>
+<td>📍 Waterbury, CT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/oak-street-health-new-graduate-nurse-practitioner-fellowship-spanish-preferred-in-waterbury-ct-at-signify-health-4379592518/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/signifyhealth">Signify Health</a></td>
+<td>Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Preferred)</td>
+<td>📍 Waterbury, CT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/oak-street-health-new-graduate-nurse-practitioner-fellowship-spanish-preferred-in-waterbury-ct-at-signify-health-4379592518/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/signifyhealth">Signify Health</a></td>
+<td>Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Preferred)</td>
+<td>📍 Waterbury, CT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/oak-street-health-new-graduate-nurse-practitioner-fellowship-spanish-preferred-in-waterbury-ct-at-signify-health-4379592518/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shermco-industries">Shermco Industries</a></td>
+<td>New Grad Field Services Engineer - Electrical Testing I</td>
+<td>📍 Hiawatha, IA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-field-services-engineer-electrical-testing-i-in-hiawatha-ia-at-shermco-industries-4310438116/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shermco-industries">Shermco Industries</a></td>
+<td>New Grad Field Services Engineer - Electrical Testing I</td>
+<td>📍 Hiawatha, IA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-field-services-engineer-electrical-testing-i-in-hiawatha-ia-at-shermco-industries-4310438116/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shermco-industries">Shermco Industries</a></td>
+<td>New Grad Field Services Engineer - Electrical Testing I</td>
+<td>📍 San Antonio, TX</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-field-services-engineer-electrical-testing-i-in-san-antonio-tx-at-shermco-industries-4310442053/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shermco-industries">Shermco Industries</a></td>
+<td>New Grad Field Services Engineer - Electrical Testing I</td>
+<td>📍 Hiawatha, IA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-field-services-engineer-electrical-testing-i-in-hiawatha-ia-at-shermco-industries-4310438116/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shermco-industries">Shermco Industries</a></td>
+<td>New Grad Field Services Engineer- Electrical Testing I</td>
+<td>📍 Sulphur, OK</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-field-services-engineer-electrical-testing-i-in-sulphur-ok-at-shermco-industries-4309821598/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shermco-industries">Shermco Industries</a></td>
+<td>New Grad Field Services Engineer- Electrical Testing I</td>
+<td>📍 Sulphur, OK</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-field-services-engineer-electrical-testing-i-in-sulphur-ok-at-shermco-industries-4309821598/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shermco-industries">Shermco Industries</a></td>
+<td>New Grad Field Services Engineer - Electrical Testing I</td>
+<td>📍 Gonzales, LA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-field-services-engineer-electrical-testing-i-in-gonzales-la-at-shermco-industries-4309822421/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shermco-industries">Shermco Industries</a></td>
+<td>New Grad Field Services Engineer- Electrical Testing I</td>
+<td>📍 Sulphur, OK</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-field-services-engineer-electrical-testing-i-in-sulphur-ok-at-shermco-industries-4309821598/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shermco-industries">Shermco Industries</a></td>
+<td>New Grad Field Services Engineer - Electrical Testing I</td>
+<td>📍 Gonzales, LA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-field-services-engineer-electrical-testing-i-in-gonzales-la-at-shermco-industries-4309822421/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shermco-industries">Shermco Industries</a></td>
+<td>New Grad Field Services Engineer - Electrical Testing I</td>
+<td>📍 Gonzales, LA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-field-services-engineer-electrical-testing-i-in-gonzales-la-at-shermco-industries-4309822421/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/school/uams/">UAMS - University of Arkansas for Medical Sciences</a></td>
+<td>Registered Respiratory Therapist (RRT) NEW Graduate - 10K Sign-on Bonus</td>
+<td>📍 Little Rock, AR</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-respiratory-therapist-rrt-new-graduate-10k-sign-on-bonus-in-little-rock-ar-at-uams-university-of-arkansas-for-medical-sciences-4379575839/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/midstate-medical-center">MidState Medical Center</a></td>
+<td>Staff Registered Nurse New Graduate</td>
+<td>📍 Meriden, CT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/staff-registered-nurse-new-graduate-in-meriden-ct-at-midstate-medical-center-4378428771/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/school/uams/">UAMS - University of Arkansas for Medical Sciences</a></td>
+<td>Registered Respiratory Therapist (RRT) NEW Graduate - 10K Sign-on Bonus</td>
+<td>📍 Little Rock, AR</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-respiratory-therapist-rrt-new-graduate-10k-sign-on-bonus-in-little-rock-ar-at-uams-university-of-arkansas-for-medical-sciences-4379575839/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/midstate-medical-center">MidState Medical Center</a></td>
+<td>Staff Registered Nurse New Graduate</td>
+<td>📍 Meriden, CT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/staff-registered-nurse-new-graduate-in-meriden-ct-at-midstate-medical-center-4378428771/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/applied-intuition-inc">Applied Intuition</a></td>
+<td>Software Engineer - New Grad</td>
+<td>📍 Ann Arbor, MI</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-new-grad-in-ann-arbor-mi-at-applied-intuition-4288704567/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/applied-intuition-inc">Applied Intuition</a></td>
+<td>Software Engineer - New Grad</td>
+<td>📍 Ann Arbor, MI</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-new-grad-in-ann-arbor-mi-at-applied-intuition-4288704567/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/applied-intuition-inc">Applied Intuition</a></td>
+<td>Software Engineer - New Grad</td>
+<td>📍 Ann Arbor, MI</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-new-grad-in-ann-arbor-mi-at-applied-intuition-4288704567/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/novelis">Novelis</a></td>
+<td>Electrical/Automation Engineer - 2025 NEW GRAD</td>
+<td>📍 Bay Minette, AL</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/electricalautomation-engineer-2025-new-grad-in-bay-minette-al-at-novelis-4364035268/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/novelis">Novelis</a></td>
+<td>Electrical/Automation Engineer - 2025 NEW GRAD</td>
+<td>📍 Bay Minette, AL</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/electricalautomation-engineer-2025-new-grad-in-bay-minette-al-at-novelis-4364035268/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/novelis">Novelis</a></td>
+<td>Electrical/Automation Engineer - 2025 NEW GRAD</td>
+<td>📍 Bay Minette, AL</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/electricalautomation-engineer-2025-new-grad-in-bay-minette-al-at-novelis-4364035268/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Data Engineer - New Grad</td>
+<td>📍 Redwood City, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-engineer-new-grad-in-redwood-city-ca-at-lensa-4379538416/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Data Engineer - New Grad</td>
+<td>📍 Redwood City, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-engineer-new-grad-in-redwood-city-ca-at-lensa-4379538416/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Data Engineer - New Grad</td>
+<td>📍 Redwood City, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-engineer-new-grad-in-redwood-city-ca-at-lensa-4379538416/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>RN New Grad, Nurse Residency Program</td>
+<td>📍 Indianapolis, IN</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-new-grad-nurse-residency-program-in-indianapolis-in-at-lensa-4379552046/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sally-beauty-company">Sally Beauty</a></td>
+<td>New Graduate Associate Veterinarian</td>
+<td>📍 Franklin, TN</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-associate-veterinarian-in-franklin-tn-at-sally-beauty-4379541305/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sally-beauty-company">Sally Beauty</a></td>
+<td>New Graduate Associate Veterinarian</td>
+<td>📍 Franklin, TN</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-associate-veterinarian-in-franklin-tn-at-sally-beauty-4379541305/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
+<td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
+<td>📍 Chicago, IL</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-chicago-il-at-agoda-4299770481/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
+<td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
+<td>📍 Boston, MA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-boston-ma-at-agoda-4299778185/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
+<td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
+<td>📍 Chicago, IL</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-chicago-il-at-agoda-4299770481/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
+<td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
+<td>📍 Chicago, IL</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-chicago-il-at-agoda-4299770481/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
 <td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
 <td>📍 Boston, MA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-boston-ma-at-agoda-4299778185/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://sg.linkedin.com/company/agoda">Agoda</a></td>
 <td>Associate Data Analyst (New Graduate, Thai Speaking) (Marketing Analytics, Bangkok Based)</td>
 <td>📍 Boston, MA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/associate-data-analyst-new-graduate-thai-speaking-marketing-analytics-bangkok-based-in-boston-ma-at-agoda-4299778185/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Mechanical Designer- New Graduate</td>
-<td>📍 Phoenix, AZ</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/mechanical-designer-new-graduate-in-phoenix-az-at-lensa-4379257295/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Mechanical Designer- New Graduate</td>
-<td>📍 Phoenix, AZ</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/mechanical-designer-new-graduate-in-phoenix-az-at-lensa-4379257295/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/spacex">SpaceX</a></td>
-<td>New Graduate Engineer, Software (Starlink)</td>
-<td>📍 Bastrop, TX</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-engineer-software-starlink-in-bastrop-tx-at-spacex-4379238473/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/spacex">SpaceX</a></td>
-<td>New Graduate Engineer, Software (Starlink)</td>
-<td>📍 Bastrop, TX</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-engineer-software-starlink-in-bastrop-tx-at-spacex-4379238473/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentra-app">Sentra</a></td>
-<td>Software Engineer - New Grad</td>
-<td>📍 San Francisco, CA</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-new-grad-in-san-francisco-ca-at-sentra-4379266061/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentra-app">Sentra</a></td>
-<td>Software Engineer - New Grad</td>
-<td>📍 San Francisco, CA</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-new-grad-in-san-francisco-ca-at-sentra-4379266061/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentra-app">Sentra</a></td>
-<td>Software Engineer - New Grad</td>
-<td>📍 San Francisco, CA</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-new-grad-in-san-francisco-ca-at-sentra-4379266061/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Data Engineer - New Grad</td>
-<td>📍 Redwood City, CA</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-engineer-new-grad-in-redwood-city-ca-at-lensa-4379095390/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/catholic-health-initiatives">CHI</a></td>
-<td>New Grad Residency Program Medical Surgical Unit</td>
-<td>📍 Lincoln, NE</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-residency-program-medical-surgical-unit-in-lincoln-ne-at-chi-4376243586/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/catholic-health-initiatives">CHI</a></td>
-<td>New Grad Residency Program Medical Surgical Unit</td>
-<td>📍 Lincoln, NE</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-residency-program-medical-surgical-unit-in-lincoln-ne-at-chi-4376243586/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Data Engineer - New Grad</td>
-<td>📍 Redwood City, CA</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-engineer-new-grad-in-redwood-city-ca-at-lensa-4379095390/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Data Engineer - New Grad</td>
-<td>📍 Redwood City, CA</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-engineer-new-grad-in-redwood-city-ca-at-lensa-4379095390/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/west-valley-medical-center">West Valley Medical Center</a></td>
-<td>New Grad RN Behavioral Health</td>
-<td>📍 Caldwell, ID</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-behavioral-health-in-caldwell-id-at-west-valley-medical-center-4379230809/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/west-valley-medical-center">West Valley Medical Center</a></td>
-<td>New Grad RN Behavioral Health</td>
-<td>📍 Caldwell, ID</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-behavioral-health-in-caldwell-id-at-west-valley-medical-center-4379230809/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
-<td>Registered Nurse (RN) - New Graduate</td>
-<td>📍 Miami, FL</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-rn-new-graduate-in-miami-fl-at-lensa-4379229104/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cleveland-clinic">Cleveland Clinic</a></td>
-<td>New Grad RN Resident</td>
-<td>📍 Cleveland, OH</td>
-<td>1d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-resident-in-cleveland-oh-at-cleveland-clinic-4378211012/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cleveland-clinic">Cleveland Clinic</a></td>
-<td>New Grad RN Resident - Pediatric Intermediate Care Unit</td>
-<td>📍 Cleveland, OH</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-resident-pediatric-intermediate-care-unit-in-cleveland-oh-at-cleveland-clinic-4377948520/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
-<td>Seeking Paralegal New Grads!</td>
-<td>📍 Detroit, MI</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/seeking-paralegal-new-grads-in-detroit-mi-at-morgan-morgan-pa-4376203130/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
-<td>Seeking Paralegal New Grads!</td>
-<td>📍 Detroit, MI</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/seeking-paralegal-new-grads-in-detroit-mi-at-morgan-morgan-pa-4376203130/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
-<td>Seeking Paralegal New Grads!</td>
-<td>📍 Columbus, OH</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/seeking-paralegal-new-grads-in-columbus-oh-at-morgan-morgan-pa-4375993636/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
-<td>Seeking Paralegal New Grads!</td>
-<td>📍 West Palm Beach, FL</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/seeking-paralegal-new-grads-in-west-palm-beach-fl-at-morgan-morgan-pa-4375979648/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bonham-solutions">Bonham Solutions</a></td>
-<td>Attorney - New Grads Welcome!</td>
-<td>📍 Tucson, AZ</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/attorney-new-grads-welcome-in-tucson-az-at-bonham-solutions-4379001573/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/select-medical">Select Medical</a></td>
-<td>Registered Nurse (RN) - New Graduate</td>
-<td>📍 Knoxville, TN</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-rn-new-graduate-in-knoxville-tn-at-select-medical-4378617747/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/connecticut-childrens">Connecticut Children's</a></td>
-<td>New Graduate Nurse</td>
-<td>📍 Hartford, CT</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-nurse-in-hartford-ct-at-connecticut-childrens-3896609431/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lakecharlesmemorial">Lake Charles Memorial Health System</a></td>
-<td>Registered Nurse - New Graduate (Full Time)</td>
-<td>📍 Lake Charles, LA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-new-graduate-full-time-in-lake-charles-la-at-lake-charles-memorial-health-system-4378742678/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lakecharlesmemorial">Lake Charles Memorial Health System</a></td>
-<td>Registered Nurse - New Graduate (Full Time)</td>
-<td>📍 Lake Charles, LA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-new-graduate-full-time-in-lake-charles-la-at-lake-charles-memorial-health-system-4378742678/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
-<td>New Grad Project Engineer I - Food & Beverage Group</td>
-<td>📍 Kansas City, MO</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-project-engineer-i-food-beverage-group-in-kansas-city-mo-at-crb-4378652926/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
-<td>New Grad Project Engineer I - Food & Beverage Group</td>
-<td>📍 Kansas City, MO</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-project-engineer-i-food-beverage-group-in-kansas-city-mo-at-crb-4378652926/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fairview-health-services">Fairview Health Services</a></td>
-<td>RN - Intensive Care Unit (Will Consider New Grads)</td>
-<td>📍 Maplewood, MN</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-intensive-care-unit-will-consider-new-grads-in-maplewood-mn-at-fairview-health-services-4377635726/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fairview-health-services">Fairview Health Services</a></td>
-<td>RN - Intensive Care Unit (Will Consider New Grads)</td>
-<td>📍 Maplewood, MN</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-intensive-care-unit-will-consider-new-grads-in-maplewood-mn-at-fairview-health-services-4377635726/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/emerson-hospital">Emerson Health</a></td>
-<td>New Graduate RN Residency Program / Med Surg</td>
-<td>📍 Concord, CA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-rn-residency-program-med-surg-in-concord-ca-at-emerson-health-4377627881/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fairview-health-services">Fairview Health Services</a></td>
-<td>RN - Intensive Care Unit (Will Consider New Grads)</td>
-<td>📍 Maplewood, MN</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-intensive-care-unit-will-consider-new-grads-in-maplewood-mn-at-fairview-health-services-4377635726/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/emerson-hospital">Emerson Health</a></td>
-<td>New Grad RN Residency Program / Behavioral Health Unit</td>
-<td>📍 Concord, CA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-residency-program-behavioral-health-unit-in-concord-ca-at-emerson-health-4377629898/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/corvus-robotics">Corvus Robotics</a></td>
-<td>New grad, LLM + travel</td>
-<td>📍 Mountain View, CA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-llm-travel-in-mountain-view-ca-at-corvus-robotics-4377623924/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/corvus-robotics">Corvus Robotics</a></td>
-<td>New grad, LLM + travel</td>
-<td>📍 Mountain View, CA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-llm-travel-in-mountain-view-ca-at-corvus-robotics-4377623924/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
 <td>Registered Nurse (RN) - New Graduate</td>
 <td>📍 Nashville, TN</td>
 <td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-rn-new-graduate-in-nashville-tn-at-lensa-4378674784/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-rn-new-graduate-in-nashville-tn-at-lensa-4379249592/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/corvus-robotics">Corvus Robotics</a></td>
-<td>New grad, LLM + travel</td>
-<td>📍 Mountain View, CA</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Mechanical Designer- New Graduate</td>
+<td>📍 Phoenix, AZ</td>
 <td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-llm-travel-in-mountain-view-ca-at-corvus-robotics-4377623924/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/mechanical-designer-new-graduate-in-phoenix-az-at-lensa-4379257295/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sprouts-farmers-market">Sprouts Farmers Market</a></td>
-<td>New Graduate - Assistant Store Manager</td>
-<td>📍 Madison, WI</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-assistant-store-manager-in-madison-wi-at-sprouts-farmers-market-4377628160/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Mechanical Designer- New Graduate</td>
+<td>📍 Phoenix, AZ</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/mechanical-designer-new-graduate-in-phoenix-az-at-lensa-4379257295/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sprouts-farmers-market">Sprouts Farmers Market</a></td>
-<td>New Graduate - Assistant Store Manager</td>
-<td>📍 Madison, WI</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-assistant-store-manager-in-madison-wi-at-sprouts-farmers-market-4377628160/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/spacex">SpaceX</a></td>
+<td>New Graduate Engineer, Software (Starlink)</td>
+<td>📍 Bastrop, TX</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-engineer-software-starlink-in-bastrop-tx-at-spacex-4379238473/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
-<td>New Grad VDC Technician</td>
-<td>📍 Boston, MA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-vdc-technician-in-boston-ma-at-crb-4378649967/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/spacex">SpaceX</a></td>
+<td>New Graduate Engineer, Software (Starlink)</td>
+<td>📍 Bastrop, TX</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-engineer-software-starlink-in-bastrop-tx-at-spacex-4379238473/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/crbgrp">CRB</a></td>
-<td>New Grad VDC Technician</td>
-<td>📍 Boston, MA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-vdc-technician-in-boston-ma-at-crb-4378649967/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentra-app">Sentra</a></td>
+<td>Software Engineer - New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-new-grad-in-san-francisco-ca-at-sentra-4379266061/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/timmons-group">Timmons Group</a></td>
-<td>New Graduate Project Engineer I</td>
-<td>📍 US</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-project-engineer-i-in-us-at-timmons-group-4378648523/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentra-app">Sentra</a></td>
+<td>Software Engineer - New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-new-grad-in-san-francisco-ca-at-sentra-4379266061/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/timmons-group">Timmons Group</a></td>
-<td>New Graduate Project Engineer I</td>
-<td>📍 US</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-project-engineer-i-in-us-at-timmons-group-4378648523/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentra-app">Sentra</a></td>
+<td>Software Engineer - New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-new-grad-in-san-francisco-ca-at-sentra-4379266061/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/timmons-group">Timmons Group</a></td>
-<td>New Graduate Project Engineer I</td>
-<td>📍 US</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-project-engineer-i-in-us-at-timmons-group-4378648523/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Data Engineer - New Grad</td>
+<td>📍 Redwood City, CA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-engineer-new-grad-in-redwood-city-ca-at-lensa-4379095390/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/uvmhealth-university-of-vermont-medical-center">UVM Health - UVM Medical Center</a></td>
-<td>New Graduate Nurse Residency - Vermont & New York Summer 2026 Cohorts</td>
-<td>📍 Burlington, NC</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-nurse-residency-vermont-new-york-summer-2026-cohorts-in-burlington-nc-at-uvm-health-uvm-medical-center-4378624525/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/catholic-health-initiatives">CHI</a></td>
+<td>New Grad Residency Program Medical Surgical Unit</td>
+<td>📍 Lincoln, NE</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-residency-program-medical-surgical-unit-in-lincoln-ne-at-chi-4376243586/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/smilow-cancer-hospital">Smilow Cancer Hospital</a></td>
-<td>New Graduate Pediatric Inpatient RN; Registered Nurse</td>
-<td>📍 New Haven, CT</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/catholic-health-initiatives">CHI</a></td>
+<td>New Grad Residency Program Medical Surgical Unit</td>
+<td>📍 Lincoln, NE</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-residency-program-medical-surgical-unit-in-lincoln-ne-at-chi-4376243586/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Data Engineer - New Grad</td>
+<td>📍 Redwood City, CA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-engineer-new-grad-in-redwood-city-ca-at-lensa-4379095390/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Data Engineer - New Grad</td>
+<td>📍 Redwood City, CA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-engineer-new-grad-in-redwood-city-ca-at-lensa-4379095390/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/west-valley-medical-center">West Valley Medical Center</a></td>
+<td>New Grad RN Behavioral Health</td>
+<td>📍 Caldwell, ID</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-behavioral-health-in-caldwell-id-at-west-valley-medical-center-4379230809/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/west-valley-medical-center">West Valley Medical Center</a></td>
+<td>New Grad RN Behavioral Health</td>
+<td>📍 Caldwell, ID</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-behavioral-health-in-caldwell-id-at-west-valley-medical-center-4379230809/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lensa">Lensa</a></td>
+<td>Registered Nurse (RN) - New Graduate</td>
+<td>📍 Miami, FL</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-rn-new-graduate-in-miami-fl-at-lensa-4379229104/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cleveland-clinic">Cleveland Clinic</a></td>
+<td>New Grad RN Resident</td>
+<td>📍 Cleveland, OH</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-resident-in-cleveland-oh-at-cleveland-clinic-4378211012/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/cleveland-clinic">Cleveland Clinic</a></td>
+<td>New Grad RN Resident - Pediatric Intermediate Care Unit</td>
+<td>📍 Cleveland, OH</td>
 <td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-pediatric-inpatient-rn-registered-nurse-in-new-haven-ct-at-smilow-cancer-hospital-4378397618/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-resident-pediatric-intermediate-care-unit-in-cleveland-oh-at-cleveland-clinic-4377948520/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
+<td>Seeking Paralegal New Grads!</td>
+<td>📍 Detroit, MI</td>
+<td>3d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/seeking-paralegal-new-grads-in-detroit-mi-at-morgan-morgan-pa-4376203130/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/emerson-hospital">Emerson Health</a></td>
+<td>New Graduate RN Residency Program / Med Surg</td>
+<td>📍 Concord, CA</td>
+<td>3d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-rn-residency-program-med-surg-in-concord-ca-at-emerson-health-4377627881/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/emerson-hospital">Emerson Health</a></td>
+<td>New Grad RN Residency Program / Behavioral Health Unit</td>
+<td>📍 Concord, CA</td>
+<td>3d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-rn-residency-program-behavioral-health-unit-in-concord-ca-at-emerson-health-4377629898/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 </tbody>
 </table>
