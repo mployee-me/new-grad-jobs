@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Monday, March 16, 2026 at 06:34 AM EDT**
+**Tuesday, March 17, 2026 at 06:12 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **6** positions available
+> 💼 **17** positions available
 
 <table width="100%">
 <thead>
@@ -109,38 +109,115 @@ color : white;
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fox-rehabilitation">FOX Rehabilitation</a></td>
-<td>Physical Therapist (New Grad Mentor Program) - Charleston, SC</td>
-<td>📍 Charleston, SC</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/physical-therapist-new-grad-mentor-program-charleston-sc-in-charleston-sc-at-fox-rehabilitation-4334222719/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
+<td>Life Sciences Consultant – Quality (New Grad/ Early Career))</td>
+<td>📍 Blue Bell, PA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/life-sciences-consultant-quality-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4386387924/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fox-rehabilitation">FOX Rehabilitation</a></td>
-<td>Physical Therapist (New Grad Mentor Program) - Charleston, SC</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
+<td>Life Sciences Consultant – Packaging (New Grad/ Early Career))</td>
+<td>📍 Blue Bell, PA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/life-sciences-consultant-packaging-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4386503164/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
+<td>Life Sciences Consultant – Quality (New Grad/ Early Career))</td>
+<td>📍 Blue Bell, PA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/life-sciences-consultant-quality-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4386387924/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
+<td>Life Sciences Consultant – Packaging (New Grad/ Early Career))</td>
+<td>📍 Blue Bell, PA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/life-sciences-consultant-packaging-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4386503164/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
+<td>Life Sciences Consultant – Packaging (New Grad/ Early Career))</td>
+<td>📍 Blue Bell, PA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/life-sciences-consultant-packaging-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4386503164/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/timmons-group">Timmons Group</a></td>
+<td>New Graduate Project Engineer I</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-project-engineer-i-in-us-at-timmons-group-4384348816/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/timmons-group">Timmons Group</a></td>
+<td>New Graduate Project Engineer I</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-project-engineer-i-in-us-at-timmons-group-4384348816/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/timmons-group">Timmons Group</a></td>
+<td>New Graduate Project Engineer I</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-project-engineer-i-in-us-at-timmons-group-4384348816/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/talentburst">TalentBurst, an Inc 5000 company</a></td>
+<td>RN New Grad: Med Surg</td>
 <td>📍 Charleston, SC</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/physical-therapist-new-grad-mentor-program-charleston-sc-in-charleston-sc-at-fox-rehabilitation-4334222719/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-new-grad-med-surg-in-charleston-sc-at-talentburst-an-inc-5000-company-4370542776/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/talentburst">TalentBurst, an Inc 5000 company</a></td>
+<td>RN New Grad: Med Surg</td>
+<td>📍 Charleston, SC</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-new-grad-med-surg-in-charleston-sc-at-talentburst-an-inc-5000-company-4370542776/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/talentburst">TalentBurst, an Inc 5000 company</a></td>
+<td>RN New Grad: Med Surg</td>
+<td>📍 Charleston, SC</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-new-grad-med-surg-in-charleston-sc-at-talentburst-an-inc-5000-company-4370542776/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/las-vegas-pain-institute-and-medical-center-llc">LAS VEGAS PAIN INSTITUTE AND MEDICAL CENTER, LLC</a></td>
+<td>New Graduate NP NURSE PRACTITIONER start your NP CAREER HERE</td>
+<td>📍 Las Vegas, NV</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-np-nurse-practitioner-start-your-np-career-here-in-las-vegas-nv-at-las-vegas-pain-institute-and-medical-center-llc-4384977703/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/las-vegas-pain-institute-and-medical-center-llc">LAS VEGAS PAIN INSTITUTE AND MEDICAL CENTER, LLC</a></td>
+<td>New Graduate NP NURSE PRACTITIONER start your NP CAREER HERE</td>
+<td>📍 Las Vegas, NV</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-np-nurse-practitioner-start-your-np-career-here-in-las-vegas-nv-at-las-vegas-pain-institute-and-medical-center-llc-4384977703/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/las-vegas-pain-institute-and-medical-center-llc">LAS VEGAS PAIN INSTITUTE AND MEDICAL CENTER, LLC</a></td>
+<td>New Graduate NP NURSE PRACTITIONER start your NP CAREER HERE</td>
+<td>📍 Las Vegas, NV</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-np-nurse-practitioner-start-your-np-career-here-in-las-vegas-nv-at-las-vegas-pain-institute-and-medical-center-llc-4384977703/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://fr.linkedin.com/company/sogeti">Sogeti</a></td>
 <td>New Grad - Entry Level Technology Consultant</td>
 <td>📍 Chicago, IL</td>
-<td>4d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-entry-level-technology-consultant-in-chicago-il-at-sogeti-4383966806/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://fr.linkedin.com/company/sogeti">Sogeti</a></td>
-<td>New Grad - Entry Level Technology Consultant</td>
-<td>📍 Chicago, IL</td>
-<td>4d ago</td>
+<td>5d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-entry-level-technology-consultant-in-chicago-il-at-sogeti-4383966806/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/okta-inc-">Okta</a></td>
 <td>Software Engineer I (New Grad)</td>
 <td>📍 San Francisco, CA</td>
-<td>4d ago</td>
+<td>5d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-i-new-grad-in-san-francisco-ca-at-okta-4383008983/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
