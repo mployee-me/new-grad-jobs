@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Wednesday, March 18, 2026 at 06:28 AM EDT**
+**Thursday, March 19, 2026 at 06:05 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **20** positions available
+> 💼 **29** positions available
 
 <table width="100%">
 <thead>
@@ -109,136 +109,199 @@ color : white;
 </thead>
 <tbody>
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fox-rehabilitation">FOX Rehabilitation</a></td>
+<td>Physical Therapist (New Grad Mentor Program) - Milford, DE</td>
+<td>📍 Milford, UT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/physical-therapist-new-grad-mentor-program-milford-de-in-milford-ut-at-fox-rehabilitation-4385027029/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fox-rehabilitation">FOX Rehabilitation</a></td>
+<td>Physical Therapist (New Grad Mentor Program) - Milford, DE</td>
+<td>📍 Milford, UT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/physical-therapist-new-grad-mentor-program-milford-de-in-milford-ut-at-fox-rehabilitation-4385027029/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fox-rehabilitation">FOX Rehabilitation</a></td>
+<td>Physical Therapist (New Grad Mentor Program) - Milford, DE</td>
+<td>📍 Milford, UT</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/physical-therapist-new-grad-mentor-program-milford-de-in-milford-ut-at-fox-rehabilitation-4385027029/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/unmhospital">UNM Hospital</a></td>
+<td>New Graduates Welcome - RRT - sign-on bonus</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduates-welcome-rrt-sign-on-bonus-in-us-at-unm-hospital-4303656959/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/unmhospital">UNM Hospital</a></td>
+<td>New Graduates Welcome -Radiology Tech - sign-on bonus</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduates-welcome-radiology-tech-sign-on-bonus-in-us-at-unm-hospital-4303651947/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/unmhospital">UNM Hospital</a></td>
+<td>New Graduates Welcome - RRT - sign-on bonus</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduates-welcome-rrt-sign-on-bonus-in-us-at-unm-hospital-4303656959/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/unmhospital">UNM Hospital</a></td>
+<td>New Graduates Welcome -Radiology Tech - sign-on bonus</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduates-welcome-radiology-tech-sign-on-bonus-in-us-at-unm-hospital-4303651947/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/unmhospital">UNM Hospital</a></td>
+<td>New Graduates Welcome - RRT - sign-on bonus</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduates-welcome-rrt-sign-on-bonus-in-us-at-unm-hospital-4303656959/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/select-specialty-hospital">Select Specialty Hospital</a></td>
+<td>Registered Nurse (RN) - New Graduate</td>
+<td>📍 Omaha, NE</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-rn-new-graduate-in-omaha-ne-at-select-specialty-hospital-4386929387/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/select-specialty-hospital">Select Specialty Hospital</a></td>
+<td>Registered Nurse (RN) - New Graduate</td>
+<td>📍 Omaha, NE</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/registered-nurse-rn-new-graduate-in-omaha-ne-at-select-specialty-hospital-4386929387/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://uk.linkedin.com/company/startup-resources">Startup Resources</a></td>
+<td>Product Manager (New Grad) — Series A Startup | San Francisco or New York</td>
+<td>📍 San Francisco, CA</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-new-grad-series-a-startup-san-francisco-or-new-york-in-san-francisco-ca-at-startup-resources-4386964047/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/baycare-health-system">BayCare Health System</a></td>
 <td>New Graduate Critical Care Internship Program - CCIP - St. Joseph's Hospital Main, Tampa</td>
 <td>📍 Tampa, FL</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-critical-care-internship-program-ccip-st-josephs-hospital-main-tampa-in-tampa-fl-at-baycare-health-system-4385502085/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/judge-direct-placement">Judge Direct Placement</a></td>
 <td>Sr. FSQA Specialist - PhD REQUIRED (New Grads Encouraged)</td>
 <td>📍 Chino, CA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/sr-fsqa-specialist-phd-required-new-grads-encouraged-in-chino-ca-at-judge-direct-placement-4385290868/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Consultant – Quality (New Grad/ Early Career))</td>
 <td>📍 Blue Bell, PA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/life-sciences-consultant-quality-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4386387924/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Consultant – Quality (New Grad/ Early Career))</td>
 <td>📍 Blue Bell, PA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/life-sciences-consultant-quality-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4386387924/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Consultant – Packaging (New Grad/ Early Career))</td>
 <td>📍 Blue Bell, PA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/life-sciences-consultant-packaging-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4386503164/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Consultant – Quality (New Grad/ Early Career))</td>
 <td>📍 Blue Bell, PA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/life-sciences-consultant-quality-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4386387924/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Consultant – Packaging (New Grad/ Early Career))</td>
 <td>📍 Blue Bell, PA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/life-sciences-consultant-packaging-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4386503164/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/network-partners-group-consultants">Network Partners Group</a></td>
 <td>Life Sciences Consultant – Packaging (New Grad/ Early Career))</td>
 <td>📍 Blue Bell, PA</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/life-sciences-consultant-packaging-new-grad-early-career-in-blue-bell-pa-at-network-partners-group-4386503164/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/timmons-group">Timmons Group</a></td>
 <td>New Graduate Project Engineer I</td>
 <td>📍 US</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-project-engineer-i-in-us-at-timmons-group-4384348816/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/timmons-group">Timmons Group</a></td>
-<td>New Graduate Project Engineer I</td>
-<td>📍 US</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-project-engineer-i-in-us-at-timmons-group-4384348816/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/timmons-group">Timmons Group</a></td>
 <td>New Graduate Project Engineer I</td>
 <td>📍 US</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-project-engineer-i-in-us-at-timmons-group-4384348816/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/talentburst">TalentBurst, an Inc 5000 company</a></td>
 <td>RN New Grad: Med Surg</td>
 <td>📍 Charleston, SC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-new-grad-med-surg-in-charleston-sc-at-talentburst-an-inc-5000-company-4370542776/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/talentburst">TalentBurst, an Inc 5000 company</a></td>
-<td>RN New Grad: Med Surg</td>
-<td>📍 Charleston, SC</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-new-grad-med-surg-in-charleston-sc-at-talentburst-an-inc-5000-company-4370542776/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/talentburst">TalentBurst, an Inc 5000 company</a></td>
 <td>RN New Grad: Med Surg</td>
 <td>📍 Charleston, SC</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/rn-new-grad-med-surg-in-charleston-sc-at-talentburst-an-inc-5000-company-4370542776/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/las-vegas-pain-institute-and-medical-center-llc">LAS VEGAS PAIN INSTITUTE AND MEDICAL CENTER, LLC</a></td>
 <td>New Graduate NP NURSE PRACTITIONER start your NP CAREER HERE</td>
 <td>📍 Las Vegas, NV</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-np-nurse-practitioner-start-your-np-career-here-in-las-vegas-nv-at-las-vegas-pain-institute-and-medical-center-llc-4384977703/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/las-vegas-pain-institute-and-medical-center-llc">LAS VEGAS PAIN INSTITUTE AND MEDICAL CENTER, LLC</a></td>
 <td>New Graduate NP NURSE PRACTITIONER start your NP CAREER HERE</td>
 <td>📍 Las Vegas, NV</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-np-nurse-practitioner-start-your-np-career-here-in-las-vegas-nv-at-las-vegas-pain-institute-and-medical-center-llc-4384977703/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/las-vegas-pain-institute-and-medical-center-llc">LAS VEGAS PAIN INSTITUTE AND MEDICAL CENTER, LLC</a></td>
 <td>New Graduate NP NURSE PRACTITIONER start your NP CAREER HERE</td>
 <td>📍 Las Vegas, NV</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-graduate-np-nurse-practitioner-start-your-np-career-here-in-las-vegas-nv-at-las-vegas-pain-institute-and-medical-center-llc-4384977703/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://fr.linkedin.com/company/sogeti">Sogeti</a></td>
 <td>New Grad - Entry Level Technology Consultant</td>
 <td>📍 Chicago, IL</td>
-<td>6d ago</td>
+<td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/new-grad-entry-level-technology-consultant-in-chicago-il-at-sogeti-4383966806/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/okta-inc-">Okta</a></td>
 <td>Software Engineer I (New Grad)</td>
 <td>📍 San Francisco, CA</td>
-<td>6d ago</td>
+<td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/software-engineer-i-new-grad-in-san-francisco-ca-at-okta-4383008983/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
