@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Monday, September 21, 2026 at 11:58 AM EDT**
+**Tuesday, September 22, 2026 at 10:06 AM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **48** positions available
+> 💼 **35** positions available
 
 <table width="100%">
 <thead>
@@ -110,192 +110,108 @@ color : white;
 <tbody>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentilink">SentiLink</a></td>
-<td>Quantitative Scientist, PhD New Grad</td>
+<td>Quantitative Researcher, PhD New Grad</td>
 <td>📍 Chicago, IL</td>
 <td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/quantitative-researcher-phd-new-grad-in-chicago-il-at-sentilink--jid--445109067401785/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentilink">SentiLink</a></td>
+<td>Applied Scientist, PhD New Grad</td>
+<td>📍 Chicago, IL</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/applied-scientist-phd-new-grad-in-chicago-il-at-sentilink--jid--445130203213143/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/community-health-network">Community Health Network</a></td>
+<td>December 2026 New Grad RNs - ASN and BSN</td>
+<td>📍 US</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/december-2026-new-grad-rns-asn-and-bsn-in-us-at-community-health-network--jid--446987589986900/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentilink">SentiLink</a></td>
+<td>Applied Scientist, PhD New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/applied-scientist-phd-new-grad-in-san-francisco-ca-at-sentilink--jid--445109643907540/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentilink">SentiLink</a></td>
+<td>Quantitative Scientist, PhD New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/quantitative-scientist-phd-new-grad-in-san-francisco-ca-at-sentilink--jid--445109067301784/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobright-ai">Jobright.ai</a></td>
+<td>Data Analyst, New Grad</td>
+<td>📍 San Francisco, CA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/data-analyst-new-grad-in-san-francisco-ca-at-jobrightai--jid--446760649817509/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/oak-street-health">Oak Street Health, part of CVS Health</a></td>
+<td>Oak Street Health New Graduate Nurse Practitioner Fellowship (Spanish Required)</td>
+<td>📍 Phoenix, AZ</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/oak-street-health-new-graduate-nurse-practitioner-fellowship-spanish-required-in-phoenix-az-at-oak-street-health-part-of-cvs-health--jid--441456654677657/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentilink">SentiLink</a></td>
+<td>Quantitative Scientist, PhD New Grad</td>
+<td>📍 Chicago, IL</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/quantitative-scientist-phd-new-grad-in-chicago-il-at-sentilink--jid--445109845309564/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentilink">SentiLink</a></td>
 <td>Research Scientist, PhD New Grad</td>
 <td>📍 Chicago, IL</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/research-scientist-phd-new-grad-in-chicago-il-at-sentilink--jid--445108678197892/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/frye-regional-medical-center">Frye Regional Medical Center</a></td>
 <td>Registered Nurse (RN) New Grad Nephrology Oncology</td>
 <td>📍 Hickory, KY</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/registered-nurse-rn-new-grad-nephrology-oncology-in-hickory-ky-at-frye-regional-medical-center--jid--446956937270483/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/lifepoint-health">Lifepoint Health®</a></td>
+<td>Registered Nurse (RN) New Grad Nephrology Oncology</td>
+<td>📍 Hickory, KY</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/registered-nurse-rn-new-grad-nephrology-oncology-in-hickory-ky-at-lifepoint-health--jid--446981578726898/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/saint-lukes-kc">Saint Luke's</a></td>
 <td>RN - Residency (New Grad) - Saint Luke's Hospital (Plaza) - August-December 2026 Graduates</td>
 <td>📍 Kansas City, MO</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/rn-residency-new-grad-saint-lukes-hospital-plaza-august-december-2026-graduates-in-kansas-city-mo-at-saint-lukes--jid--442413428045391/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobright-ai">Jobright.ai</a></td>
 <td>Data Analyst, New Grad</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/data-analyst-new-grad-in-san-francisco-ca-at-jobrightai--jid--446846367874789/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentilink">SentiLink</a></td>
 <td>Research Scientist, PhD New Grad</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/research-scientist-phd-new-grad-in-san-francisco-ca-at-sentilink--jid--445109362004731/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/sentilink">SentiLink</a></td>
 <td>Quantitative Researcher, PhD New Grad</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/quantitative-researcher-phd-new-grad-in-san-francisco-ca-at-sentilink--jid--445108191192022/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/health-here">Health Here</a></td>
-<td>New Grad RN Nurse Residency Program</td>
-<td>📍 Gallatin, TN</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-rn-nurse-residency-program-in-gallatin-tn-at-health-here--jid--446804122752338/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/tristar-hendersonville-medical-center">TriStar Hendersonville Medical Center</a></td>
-<td>New Graduate Registered Nurse</td>
-<td>📍 Hendersonville, TN</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-registered-nurse-in-hendersonville-tn-at-tristar-hendersonville-medical-center--jid--446952975730868/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/susquehanna-international-group">Susquehanna International Group</a></td>
-<td>Associate Network Engineer - New Grad</td>
-<td>📍 Bala-Cynwyd, PA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/associate-network-engineer-new-grad-in--at-susquehanna-international-group--jid--442110410215213/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/netic-ai">Netic</a></td>
-<td>Forward Deployed Engineer (FDE) - New Grad - 2026-2027</td>
-<td>📍 San Francisco, CA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/forward-deployed-engineer-fde-new-grad-2026-2027-in-san-francisco-ca-at-netic--jid--443845368964790/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/intermountain-health">Intermountain Health</a></td>
-<td>New Graduate RN Med Endocrine</td>
-<td>📍 Murray, UT</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-rn-med-endocrine-in-murray-ut-at-intermountain-health--jid--446694525256363/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/jobright-ai">Jobright.ai</a></td>
-<td>Data Analyst, New Grad</td>
-<td>📍 San Francisco, CA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/data-analyst-new-grad-in-san-francisco-ca-at-jobrightai--jid--446808983690947/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/provident-inc-">Provident Behavioral Health</a></td>
-<td>RN New Graduate Nurse Residency Program</td>
-<td>📍 Marietta, GA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/rn-new-graduate-nurse-residency-program-in-marietta-ga-at-provident-behavioral-health--jid--446803767748788/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/flexport">Flexport</a></td>
-<td>Area Manager - New Grad</td>
-<td>📍 Atlanta, GA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/area-manager-new-grad-in-atlanta-ga-at-flexport--jid--446805419465205/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/chewy-com">Chewy</a></td>
-<td>Category Analyst New Graduate Program</td>
-<td>📍 Plantation, FL</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/category-analyst-new-graduate-program-in-plantation-fl-at-chewy--jid--446922479935800/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/tristar-northcrest">TriStar NorthCrest Medical Center</a></td>
-<td>New Grad RN- NorthCrest</td>
-<td>📍 Springfield, OR</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-rn-northcrest-in-springfield-or-at-tristar-northcrest-medical-center--jid--442214720158312/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/togethercomputer">Together AI</a></td>
-<td>Software Engineer, New Grad (2027)</td>
-<td>📍 San Francisco, CA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-new-grad-2027-in-san-francisco-ca-at-together-ai--jid--446801515626267/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/teli-labs">Teli Labs</a></td>
-<td>Software Engineer, New Grad (2027)</td>
-<td>📍 San Francisco, CA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-new-grad-2027-in-san-francisco-ca-at-teli-labs--jid--446802706638177/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/marinhealth">MarinHealth</a></td>
-<td>Radiotherapy Technologist, Radiation Oncology, Full Time, Days - NEW GRADS WELCOME! *SIGN ON BONUS*</td>
-<td>📍 Greenbrae, CA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/radiotherapy-technologist-radiation-oncology-full-time-days-new-grads-welcome-sign-on-bonus-in--at-marinhealth--jid--446922647337584/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/thejacksonclinics">The Jackson Clinics, LP</a></td>
-<td>Physical Therapist Assistant - New Grads Welcome!</td>
-<td>📍 Alexandria, VA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/physical-therapist-assistant-new-grads-welcome-in-alexandria-va-at-the-jackson-clinics-lp--jid--446693205943160/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bmo-us">BMO U.S.</a></td>
-<td>Excellence in Action - Finance Rotation Program Associate (New Graduate Opportunity)</td>
-<td>📍 Chicago, IL</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/excellence-in-action-finance-rotation-program-associate-new-graduate-opportunity-in-chicago-il-at-bmo-us--jid--446729139202403/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/nordstrom/">Nordstrom</a></td>
-<td>Operations Manager In Training - New Graduate & Early Career - East Coast Fulfillment Center</td>
-<td>📍 Elizabethtown, PA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/operations-manager-in-training-new-graduate-early-career-east-coast-fulfillment-center-in-elizabethtown-pa-at-nordstrom-R-87872189832/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/nordstrom/">Nordstrom</a></td>
-<td>Operations Manager In Training - New Graduate & Early Career - West Coast Omni Center</td>
-<td>📍 Riverside, CA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/operations-manager-in-training-new-graduate-early-career-west-coast-omni-center-in-riverside-ca-at-nordstrom-R-87862389734/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/nordstrom/">Nordstrom</a></td>
-<td>Operations Manager In Training - New Graduate & Early Career - Cedar Rapids Fulfillment Center</td>
-<td>📍 Cedar Rapids, IA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/operations-manager-in-training-new-graduate-early-career-cedar-rapids-fulfillment-center-in-cedar-rapids-ia-at-nordstrom-R-87861589726/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/nordstrom/">Nordstrom</a></td>
-<td>Operations Manager In Training - New Graduate & Early Career - Dubuque Distribution Center</td>
-<td>📍 Dubuque, IA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/operations-manager-in-training-new-graduate-early-career-dubuque-distribution-center-in-dubuque-ia-at-nordstrom-R-87859189602/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/nordstrom/">Nordstrom</a></td>
-<td>Operations Manager In Training - New Graduate & Early Career - Gainesville Distribution Center</td>
-<td>📍 Gainesville, TX</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/operations-manager-in-training-new-graduate-early-career-gainesville-distribution-center-in-gainesville-tx-at-nordstrom-R-87871189822/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bmo-us">BMO U.S.</a></td>
@@ -364,7 +280,7 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/timmons-group">Timmons Group</a></td>
 <td>New Graduate Civil Project Engineer I</td>
 <td>📍 Wilmington, CA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-civil-project-engineer-i-in-wilmington-ca-at-timmons-group-4464687561/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -378,22 +294,15 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/ciena">Ciena</a></td>
 <td>WaveLogic Software Developer - New Grad</td>
 <td>📍 Atlanta, GA</td>
-<td>2w ago</td>
+<td>3w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/wavelogic-software-developer-new-grad-in-atlanta-ga-at-ciena-4460616370/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/brooksource">Brooksource</a></td>
 <td>Entry Level Sales Representative | *New Grad Role*</td>
 <td>📍 Columbus, OH</td>
-<td>2w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/entry-level-sales-representative-new-grad-role-in-columbus-oh-at-brooksource-4460663003/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/l3harris-technologies">L3Harris Technologies</a></td>
-<td>Assoc, Software Engineer (New Grad - Salt Lake City, UT) 1 1 1</td>
-<td>📍 Salt Lake City, UT</td>
 <td>3w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/assoc-software-engineer-new-grad-salt-lake-city-ut-1-1-1-in-salt-lake-city-ut-at-l3harris-technologies-4460385598/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/entry-level-sales-representative-new-grad-role-in-columbus-oh-at-brooksource-4460663003/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/j-s-held">J.S. Held LLC</a></td>
