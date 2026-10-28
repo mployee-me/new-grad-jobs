@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Tuesday, October 27, 2026 at 11:28 AM EDT**
+**Wednesday, October 28, 2026 at 12:11 PM EDT**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **57** positions available
+> 💼 **43** positions available
 
 <table width="100%">
 <thead>
@@ -109,165 +109,67 @@ color : white;
 </thead>
 <tbody>
 <tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/imeg-corp">IMEG</a></td>
+<td>Electrical Engineering New Grad | Columbus, OH</td>
+<td>📍 Columbus, OH</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/electrical-engineering-new-grad-columbus-oh-in-columbus-oh-at-imeg--jid--448366560476715/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/imeg-corp">IMEG</a></td>
+<td>Mechanical Engineering New Graduate | Charlotte, NC</td>
+<td>📍 Charlotte, NC</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/mechanical-engineering-new-graduate-charlotte-nc-in-charlotte-nc-at-imeg--jid--447463203943140/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/vascular-institute-of-lee's-summit-medical-center">Lee's Summit Medical Center</a></td>
 <td>New Graduate RN Nurse Sponsorship TN Visa ONLY</td>
 <td>📍 Overland Park, KS</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-rn-nurse-sponsorship-tn-visa-only-in-overland-park-ks-at-lees-summit-medical-center--jid--445751658827699/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/ripplehouston">Ripple Houston</a></td>
 <td>Entry-Level Direct Marketing Associate (New Graduates Welcome)</td>
 <td>📍 Houston, TX</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/entry-level-direct-marketing-associate-new-graduates-welcome-in-houston-tx-at-ripple-houston--jid--448355173162842/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/susquehanna-international-group">Susquehanna International Group</a></td>
 <td>Associate Linux/Windows Engineer  - New Grad</td>
 <td>📍 Bala-Cynwyd, PA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/associate-linuxwindows-engineer-new-grad-in--at-susquehanna-international-group--jid--440962942030531/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/samsara">Samsara</a></td>
 <td>(New Grad) Account Development Representative II - Phoenix</td>
 <td>📍 Phoenix, AZ</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-account-development-representative-ii-phoenix-in-phoenix-az-at-samsara--jid--445467428585396/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/chalkai">Chalk</a></td>
 <td>Software Engineer - New Grad</td>
 <td>📍 San Francisco, CA</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-new-grad-in-san-francisco-ca-at-chalk--jid--447448837399484/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/childrens-national">Children's National Hospital</a></td>
 <td>Registered Nurse I (New Graduate Nurse) - Hematology Oncology Care Unit (Feb/March 2027 start)</td>
 <td>📍 Washington, DC</td>
-<td>1d ago</td>
+<td>2d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/registered-nurse-i-new-graduate-nurse-hematology-oncology-care-unit-febmarch-2027-start-in-washington-dc-at-childrens-national-hospital--jid--448293722348334/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/azza-healthcare-agency">Azza HealthCare Agency</a></td>
-<td>New Graduate Registered Nurse</td>
-<td>📍 Summerville, GA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-registered-nurse-in-summerville-ga-at-azza-healthcare-agency--jid--448107149282503/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/livewell-home-care">Live Well Homecare</a></td>
-<td>New Graduate Registered Nurse</td>
-<td>📍 Charleston, SC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-registered-nurse-in-charleston-sc-at-live-well-homecare--jid--448336988370994/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/belton-regional-medical-center">Belton Regional Medical Center</a></td>
-<td>New Graduate Nurse RN Residency All HCA Hospitals</td>
-<td>📍 Lees Summit, MO</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-nurse-rn-residency-all-hca-hospitals-in--at-belton-regional-medical-center--jid--445707066881779/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/susquehanna-international-group">Susquehanna International Group</a></td>
-<td>Trading System Engineer - New Grad</td>
-<td>📍 Bala-Cynwyd, PA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/trading-system-engineer-new-grad-in--at-susquehanna-international-group--jid--445466011971220/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/affinity-home-health-care-inc">Affinity Home Health Care Inc</a></td>
-<td>Registered Nurse Resident - New Graduate</td>
-<td>📍 Hendersonville, TN</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/registered-nurse-resident-new-graduate-in-hendersonville-tn-at-affinity-home-health-care-inc--jid--448267902380134/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/usepylon">Pylon</a></td>
-<td>Software Engineer, New Grad</td>
-<td>📍 San Francisco, CA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-new-grad-in-san-francisco-ca-at-pylon--jid--443885042861539/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://tw.linkedin.com/company/tsmc">TSMC</a></td>
-<td>Software Engineer (New Graduate) - North America Software Center</td>
-<td>📍 Vancouver, WA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-new-graduate-north-america-software-center-in-vancouver-wa-at-tsmc--jid--445629951700628/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/netic-ai">Netic</a></td>
-<td>Technical Recruiter - New Grad</td>
-<td>📍 San Francisco, CA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/technical-recruiter-new-grad-in-san-francisco-ca-at-netic--jid--443563243943540/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/one-medical-group">One Medical</a></td>
 <td>Nurse Practitioner or Physician Associate/Physician Assistant - New Grad Program: Pearl</td>
 <td>📍 Portland, OR</td>
-<td>3d ago</td>
+<td>4d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-or-physician-associatephysician-assistant-new-grad-program-pearl-in-portland-or-at-one-medical--jid--448104062551736/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/research-medical-center">Research Medical Center</a></td>
-<td>New Graduate RN Nurse Sponsorship via OPT</td>
-<td>📍 Belton, MO</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-rn-nurse-sponsorship-via-opt-in-belton-mo-at-research-medical-center--jid--445707654687657/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/centerpointmedicalcenter">Centerpoint Medical Center</a></td>
-<td>New Grad RN Resident All HCA Midwest Hospitals</td>
-<td>📍 Independence, KY</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-rn-resident-all-hca-midwest-hospitals-in-independence-ky-at-centerpoint-medical-center--jid--445707258883699/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/vascular-institute-of-lee's-summit-medical-center">Lee's Summit Medical Center</a></td>
-<td>New Graduate RN Nurse Sponsorship TN Visa ONLY</td>
-<td>📍 Lees Summit, MO</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-rn-nurse-sponsorship-tn-visa-only-in--at-lees-summit-medical-center--jid--445752550436615/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/research-medical-center">Research Medical Center</a></td>
-<td>New Graduate RN Nurse Sponsorship via OPT</td>
-<td>📍 Overland Park, KS</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-rn-nurse-sponsorship-via-opt-in-overland-park-ks-at-research-medical-center--jid--445707558586696/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/vascular-institute-of-lee's-summit-medical-center">Lee's Summit Medical Center</a></td>
-<td>New Graduate RN Nurse Sponsorship TN Visa ONLY</td>
-<td>📍 Overland Park, KS</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-rn-nurse-sponsorship-tn-visa-only-in-overland-park-ks-at-lees-summit-medical-center--jid--445752455635667/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/belton-regional-medical-center">Belton Regional Medical Center</a></td>
-<td>New Graduate Nurse RN Residency All HCA Hospitals</td>
-<td>📍 Kansas City, MO</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-nurse-rn-residency-all-hca-hospitals-in-kansas-city-mo-at-belton-regional-medical-center--jid--445706072071831/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/belton-regional-medical-center">Belton Regional Medical Center</a></td>
-<td>New Graduate Nurse RN Residency All HCA Hospitals</td>
-<td>📍 Independence, KY</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-nurse-rn-residency-all-hca-hospitals-in-independence-ky-at-belton-regional-medical-center--jid--445705385464965/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/skyline-medical-center">TriStar Skyline Medical Center</a></td>
-<td>New Grad RN - Skyline</td>
-<td>📍 Nashville, TN</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-rn-skyline-in-nashville-tn-at-tristar-skyline-medical-center--jid--442901782728938/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/j-s-held">J.S. Held LLC</a></td>
@@ -322,28 +224,28 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/stripe">Stripe</a></td>
 <td>Product Manager: New Grad Accelerator</td>
 <td>📍 San Francisco, CA</td>
-<td>2w ago</td>
+<td>3w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/product-manager-new-grad-accelerator-in-san-francisco-ca-at-stripe--jid--446793735148462/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/optomi">Optomi</a></td>
 <td>New Grad Recruiter | January 11, 2027 Start</td>
 <td>📍 Atlanta, GA</td>
-<td>2w ago</td>
+<td>3w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-recruiter-january-11-2027-start-in-atlanta-ga-at-optomi--jid--447548732598436/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/arco-designbuild-inc">ARCO Design/Build</a></td>
 <td>Construction Project Manager (New Grad 2027)</td>
 <td>📍 Charleston, SC</td>
-<td>2w ago</td>
+<td>3w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/construction-project-manager-new-grad-2027-in-charleston-sc-at-arco-designbuild--jid--445714735658467/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shield-ai">Shield AI</a></td>
 <td>Software Development Engineer - New Graduate</td>
 <td>📍 Boston, MA</td>
-<td>2w ago</td>
+<td>3w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-development-engineer-new-graduate-in-boston-ma-at-shield-ai--jid--447650086011971/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -406,21 +308,21 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/utah-jazz">Utah Jazz</a></td>
 <td>Basketball Data Scientist (New Grad Summer 2027)</td>
 <td>📍 Salt Lake City, UT</td>
-<td>3w ago</td>
+<td>4w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/basketball-data-scientist-new-grad-summer-2027-in-salt-lake-city-ut-at-utah-jazz--jid--447396383374944/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/flexport">Flexport</a></td>
 <td>Sales Development Representative - New Grad</td>
 <td>📍 Chicago, IL</td>
-<td>3w ago</td>
+<td>4w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/sales-development-representative-new-grad-in-chicago-il-at-flexport--jid--444463153942640/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fox-rehabilitation">FOX Rehabilitation</a></td>
 <td>Occupational Therapist (New Grad Mentor Program) - Charleston, SC</td>
 <td>📍 Charleston, SC</td>
-<td>3w ago</td>
+<td>4w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/occupational-therapist-new-grad-mentor-program-charleston-sc-in-charleston-sc-at-fox-rehabilitation--jid--447395618367294/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
