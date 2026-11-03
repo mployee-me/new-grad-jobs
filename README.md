@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Monday, November 2, 2026 at 02:39 PM EST**
+**Tuesday, November 3, 2026 at 12:12 PM EST**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **52** positions available
+> 💼 **36** positions available
 
 <table width="100%">
 <thead>
@@ -109,129 +109,17 @@ color : white;
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/harvey-ai">Harvey</a></td>
-<td>Software Engineer, New Grad (2027)</td>
-<td>📍 San Francisco, CA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-new-grad-2027-in-san-francisco-ca-at-harvey--jid--448515161862729/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/netic-ai">Netic</a></td>
-<td>Software Engineer (Agent Platform) - New Grad - 2026-2027</td>
-<td>📍 San Francisco, CA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-agent-platform-new-grad-2026-2027-in-san-francisco-ca-at-netic--jid--443844698457095/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shield-ai">Shield</a></td>
 <td>Engineer II, Software Test and Automation (R6221) - New Grad</td>
 <td>📍 Washington, DC</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/engineer-ii-software-test-and-automation-r6221-new-grad-in-washington-dc-at-shield--jid--447802568136792/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fox-rehabilitation">FOX Rehabilitation</a></td>
-<td>Occupational Therapist (New Grad Mentor Program) - Summerville, SC</td>
-<td>📍 Summerville, GA</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/occupational-therapist-new-grad-mentor-program-summerville-sc-in-summerville-ga-at-fox-rehabilitation--jid--447801814429255/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/protouch-staffing">Protouch Staffing</a></td>
-<td>Licensed Clinical Psychologist (PhD) – (New graduates are accepted)</td>
-<td>📍 Las Vegas, NV</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/licensed-clinical-psychologist-phd-new-graduates-are-accepted-in-las-vegas-nv-at-protouch-staffing--jid--448562793838049/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/centerpointmedicalcenter">Centerpoint Medical Center</a></td>
-<td>New Graduate Nurse RN All HCA Hospitals</td>
-<td>📍 Lees Summit, MO</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-nurse-rn-all-hca-hospitals-in--at-centerpoint-medical-center--jid--444998062791738/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/centerpointmedicalcenter">Centerpoint Medical Center</a></td>
-<td>New Graduate Nurse RN All HCA Hospitals</td>
-<td>📍 Overland Park, KS</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-nurse-rn-all-hca-hospitals-in-overland-park-ks-at-centerpoint-medical-center--jid--444998454495655/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/carvana">Carvana</a></td>
-<td>Market Operations Leadership Development Program - New Graduate</td>
-<td>📍 Chandler, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/market-operations-leadership-development-program-new-graduate-in-chandler-az-at-carvana--jid--448349676507876/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/carvana">Carvana</a></td>
-<td>Market Operations Leadership Development Program - New Graduate</td>
-<td>📍 Tolleson, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/market-operations-leadership-development-program-new-graduate-in-tolleson-az-at-carvana--jid--448348898799098/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/carvana">Carvana</a></td>
-<td>Customer Experience Management Trainee (New Grads)</td>
-<td>📍 Chandler, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/customer-experience-management-trainee-new-grads-in-chandler-az-at-carvana--jid--448390345214563/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/carvana">Carvana</a></td>
-<td>Market Operations Leadership Development Program - New Graduate</td>
-<td>📍 Chandler, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/market-operations-leadership-development-program-new-graduate-in-chandler-az-at-carvana--jid--448390439915400/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/carvana">Carvana</a></td>
-<td>Customer Experience Management Trainee (New Grads)</td>
-<td>📍 Tolleson, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/customer-experience-management-trainee-new-grads-in-tolleson-az-at-carvana--jid--448349676207873/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/carvana">Carvana</a></td>
-<td>Customer Experience Management Trainee (New Grads)</td>
-<td>📍 Chandler, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/customer-experience-management-trainee-new-grads-in-chandler-az-at-carvana--jid--448349774208853/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/carvana">Carvana</a></td>
-<td>Customer Experience Management Trainee (New Grads)</td>
-<td>📍 Tolleson, AZ</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/customer-experience-management-trainee-new-grads-in-tolleson-az-at-carvana--jid--448349380804919/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/arco-designbuild-inc">ARCO Design/Build</a></td>
-<td>Assistant Superintendent (New Grad 2027)</td>
-<td>📍 Columbia, SC</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/assistant-superintendent-new-grad-2027-in-columbia-sc-at-arco-designbuild--jid--445760056011671/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/centerpointmedicalcenter">Centerpoint Medical Center</a></td>
-<td>New Graduate Nurse RN All HCA Hospitals</td>
-<td>📍 Overland Park, KS</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-nurse-rn-all-hca-hospitals-in-overland-park-ks-at-centerpoint-medical-center--jid--444998644997550/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/petronas/">PETRONAS</a></td>
-<td>Accounting Analyst, Master Data New Grad</td>
-<td>📍 Calgary</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/accounting-analyst-master-data-new-grad-in--at-petronas--jid--R000185412965/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/hntb">HNTB</a></td>
 <td>New Grad Returning Project Finance Associate II - Summer 2027 - For Current/Former HNTB Interns Only</td>
 <td>📍 Chicago, IL</td>
-<td>5d ago</td>
+<td>6d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-returning-project-finance-associate-ii-summer-2027-for-currentformer-hntb-interns-only-in-chicago-il-at-hntb--jid--448475110862219/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -322,28 +210,28 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/ceco-concrete-construction">Ceco Concrete Construction L.L.C.</a></td>
 <td>Assistant Project Manager I (New Graduate Program) - Minneapolis, MN</td>
 <td>📍 Minneapolis, MN</td>
-<td>3w ago</td>
+<td>4w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/assistant-project-manager-i-new-graduate-program-minneapolis-mn-in-minneapolis-mn-at-ceco-concrete-construction-llc--jid--446613501046121/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fluor">Fluor Corporation</a></td>
 <td>Associate Process/Specialty Engineer I - Nuclear Engineering New Graduate</td>
 <td>📍 Houston, TX</td>
-<td>3w ago</td>
+<td>4w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/associate-processspecialty-engineer-i-nuclear-engineering-new-graduate-in-houston-tx-at-fluor-corporation--jid--447631819829209/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fluor">Fluor Corporation</a></td>
 <td>Associate Process/Specialty Engineer I - New Graduate</td>
 <td>📍 Houston, TX</td>
-<td>3w ago</td>
+<td>4w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/associate-processspecialty-engineer-i-new-graduate-in-houston-tx-at-fluor-corporation--jid--447632106932170/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/bayada-home-health-care">BAYADA Home Health Care</a></td>
 <td>RN New Grad, Nurse Residency Program</td>
 <td>📍 Indianapolis, IN</td>
-<td>3w ago</td>
+<td>4w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/rn-new-grad-nurse-residency-program-in-indianapolis-in-at-bayada-home-health-care--jid--447490613817249/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
