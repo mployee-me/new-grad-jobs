@@ -6,7 +6,7 @@
 ![Level: New Graduate](https://img.shields.io/badge/Level:_New_Graduate-orange?style=for-the-badge&logo=education)
 
 ### 📅 Last Updated
-**Saturday, November 21, 2026 at 11:53 AM EST**
+**Sunday, November 22, 2026 at 12:16 PM EST**
 
 If you're graduating in 2025 or 2026, this repository is built for you.
 
@@ -95,7 +95,7 @@ color : white;
 
 ## 🎓 New Grad Jobs (All Roles)
 
-> 💼 **47** positions available
+> 💼 **44** positions available
 
 <table width="100%">
 <thead>
@@ -109,101 +109,80 @@ color : white;
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/arco-designbuild-inc">ARCO Design/Build</a></td>
-<td>Construction Project Manager (New Grad 2027)</td>
-<td>📍 Columbia, SC</td>
-<td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/construction-project-manager-new-grad-2027-in-columbia-sc-at-arco-designbuild--jid--445761245023561/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/eight--">Eight Sleep</a></td>
+<td>New Grad - Engineering</td>
+<td>📍 Boston, MA</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-engineering-in-boston-ma-at-eight-sleep--jid--449310511716228/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/morgan-&-morgan-llc">Morgan & Morgan, P.A.</a></td>
-<td>Seeking Paralegal New Grads!</td>
-<td>📍 Marietta, GA</td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/centerpointmedicalcenter">Centerpoint Medical Center</a></td>
+<td>New Graduate Nurse RN All HCA Hospitals</td>
+<td>📍 Belton, MO</td>
+<td>1d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-nurse-rn-all-hca-hospitals-in-belton-mo-at-centerpoint-medical-center--jid--444998733698447/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/arco-designbuild-inc">ARCO Design/Build</a></td>
+<td>Construction Project Manager (New Grad 2027)</td>
+<td>📍 Atlanta, GA</td>
 <td>2d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/seeking-paralegal-new-grads-in-marietta-ga-at-morgan-morgan-pa--jid--448305129962300/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/construction-project-manager-new-grad-2027-in-atlanta-ga-at-arco-designbuild--jid--445714960150712/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/research-medical-center">Research Medical Center</a></td>
+<td>New Graduate Nurse Emergency Room</td>
+<td>📍 Lees Summit, MO</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-nurse-emergency-room-in--at-research-medical-center--jid--448521000121112/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/research-medical-center">Research Medical Center</a></td>
+<td>New Graduate Nurse Emergency Room</td>
+<td>📍 Belton, MO</td>
+<td>2d ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-graduate-nurse-emergency-room-in-belton-mo-at-research-medical-center--jid--448521200223113/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/fluor">Fluor Corporation</a></td>
 <td>New Grad: Supply Chain Specialist - Junior Expeditor</td>
 <td>📍 Houston, TX</td>
-<td>2d ago</td>
+<td>3d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-supply-chain-specialist-junior-expeditor-in-houston-tx-at-fluor-corporation--jid--449247608287193/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/epsilon">Epsilon</a></td>
 <td>New Grad Program: Associate, Business Systems Analyst</td>
 <td>📍 Boston, MA</td>
-<td>3d ago</td>
+<td>4d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-program-associate-business-systems-analyst-in-boston-ma-at-epsilon--jid--448381340224513/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/arco-murray-national-construction-company">ARCO/Murray</a></td>
-<td>Construction Project Manager (New Grad 2027)</td>
-<td>📍 Chicago, IL</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/construction-project-manager-new-grad-2027-in-chicago-il-at-arcomurray--jid--445652929330304/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/arco-designbuild-inc">ARCO Design/Build</a></td>
-<td>Assistant Superintendent (New Grad 2027)</td>
-<td>📍 Charleston, SC</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/assistant-superintendent-new-grad-2027-in-charleston-sc-at-arco-designbuild--jid--445715547666587/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/muschealth">MUSC Health</a></td>
-<td>Registered Nurse I (New Graduate) or Registered Nurse II - 9W Neurology/Neurosurgery</td>
-<td>📍 Charleston, SC</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/registered-nurse-i-new-graduate-or-registered-nurse-ii-9w-neurologyneurosurgery-in-charleston-sc-at-musc-health--jid--449186184872959/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/arco-designbuild-inc">ARCO Design/Build</a></td>
-<td>Assistant Superintendent (New Grad 2027)</td>
-<td>📍 Indianapolis, IN</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/assistant-superintendent-new-grad-2027-in-indianapolis-in-at-arco-designbuild--jid--445761543126542/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/arco-designbuild-inc">ARCO Design/Build</a></td>
-<td>Assistant Superintendent (New Grad 2027)</td>
-<td>📍 Salt Lake City, UT</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/assistant-superintendent-new-grad-2027-in-salt-lake-city-ut-at-arco-designbuild--jid--445717179082801/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/atomsco">Atoms</a></td>
 <td>AI Researcher - New Grad (BS/MS)</td>
 <td>📍 San Francisco, CA</td>
-<td>3d ago</td>
+<td>4d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/ai-researcher-new-grad-bsms-in-san-francisco-ca-at-atoms--jid--449146408075191/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/imeg-corp">IMEG</a></td>
-<td>Structural Engineering New Graduate | San Francisco, CA</td>
-<td>📍 San Francisco, CA</td>
-<td>3d ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/structural-engineering-new-graduate-san-francisco-ca-in-san-francisco-ca-at-imeg--jid--447849080501916/us3?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/thearcoway">ARCO a Family of Construction Companies</a></td>
 <td>Construction Project Manager (New Grad 2027)</td>
 <td>📍 Chicago, IL</td>
-<td>5d ago</td>
+<td>6d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/construction-project-manager-new-grad-2027-in-chicago-il-at-arco-a-family-of-construction-companies--jid--449068579896809/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/pls-logistics-services">PLS Logistics Services</a></td>
 <td>New Grad Entry-Level Sales & Logistics | $52K Base + Commission |</td>
 <td>📍 Nashville, TN</td>
-<td>5d ago</td>
+<td>6d ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/new-grad-entry-level-sales-logistics-52k-base-commission--in-nashville-tn-at-pls-logistics-services--jid--448975448265593/us2?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/one-medical-group">One Medical</a></td>
 <td>Nurse Practitioner or Physician Associate/Physician Assistant - New Grad Program: North Williams</td>
 <td>📍 Portland, OR</td>
-<td>6d ago</td>
+<td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/nurse-practitioner-or-physician-associatephysician-assistant-new-grad-program-north-williams-in-portland-or-at-one-medical--jid--448103779448805/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -238,21 +217,21 @@ color : white;
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/notionhq">Notion</a></td>
 <td>Software Engineer, New Grad (Dec 2026)</td>
 <td>📍 San Francisco, CA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/software-engineer-new-grad-dec-2026-in-san-francisco-ca-at-notion--jid--445480511116222/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shield-ai">Shield</a></td>
 <td>Engineer I, Software - Perception - New Grad - 6135</td>
 <td>📍 Washington, DC</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/engineer-i-software-perception-new-grad-6135-in-washington-dc-at-shield--jid--448880131612427/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/shield-ai">Shield</a></td>
 <td>Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125</td>
 <td>📍 Washington, DC</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/us/jobs/view/engineer-i-software-autonomous-pilot-integration-new-grad-6125-in-washington-dc-at-shield--jid--448880708018191/us1?utm_source=us_job_pages&utm_medium=github&utm_campaign=seo_mkt"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
